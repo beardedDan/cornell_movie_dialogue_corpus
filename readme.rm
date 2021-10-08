@@ -1,0 +1,3 @@
+Title: AI Generated Movie Scenes
+Introduction: Extracting sentiment and tone from text is becoming a popular use of AI as opinions and human emotions proliferate on the Internet through social media, surveys, and online reviews. The challenge of this project is to use Natural Language Processing (NLP) techniques to take this concept a step further. We hope to train a model to detect not only sentiment but character features, such as personality, from movie scripts and project those features into an AI generated script. The primary goal is essentially to create interactions between characters. This project is being constructed for DAAN570-FA21 at Penn State.
+Technologies: Python, Tensorflow
